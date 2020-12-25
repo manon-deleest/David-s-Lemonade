@@ -1,0 +1,486 @@
+/*********************************************** css reset ***********************************************/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*********************************************** font ***********************************************/
+
+@font-face {
+  font-family: "police 1";
+  src: url('police/SedgwickAve-Regular.ttf');
+}
+@font-face {
+  font-family: "police 2";
+  src: url('police/GloriaHallelujah-Regular.ttf');
+}
+h1, h2, h3, h4, nav ul li{
+  font-family: "police 1";
+  font-weight: bold;
+}
+
+p {
+	font-family: "police 2";
+}
+
+h2 {
+  padding: 20px;
+  font-size: 50px;
+}
+
+/*********************************************** Html ***********************************************/
+
+html {
+  background-color: #f9f132;
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  margin: auto;
+  width: 100%;
+}
+
+
+/*********************************************** Header ***********************************************/
+
+header {
+  width: 100%;
+	height: 240px;
+  background-image:url(image/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: bottom 202px center;
+  border-bottom: 2px solid black;
+	padding-bottom: 312px;
+}
+.hautPage {
+	display: flex;
+  justify-content: space-around;
+}
+header h1 {
+  margin-top: 20%;
+  font-size: 60px;
+}
+.hautPag div {
+  width: calc(50% - 90px);
+}
+.reseaux {
+	background-color: rgba(94, 94, 94, 0.4);
+	height: 80px;
+	width: 241px;
+	border-radius: 15px;
+	margin-top: 10px;
+	display: inline-block;
+}
+.reseaux img {
+  width: 80px;
+}
+.logo {
+  width: 180px;
+  height: 202.2px;
+  margin-top: 140px;
+}
+
+/*********************************************** Menu ***********************************************/
+
+nav {
+	background-image: url(image/model.png);
+	background-repeat: repeat;
+  background-size: 300px auto;
+  margin: 0px;
+	border-top: 2px solid black;
+  border-bottom: 2px solid black;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+}
+nav img {
+	display: block;
+	margin: auto;
+	height: 180px;
+}
+nav img:first-child {
+  transform: scaleX(-1);
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 40px;
+}
+a:hover {
+	color: red;
+}
+ul {
+  display: block;
+  margin: auto;
+  list-style-type: none;
+  width: 300px;
+  padding: 0px;
+  background-color: #FCE800;
+}
+li {
+  text-align: center;
+  border: 2px solid black;
+  border-top: 0px;
+  padding: 14px;
+}
+li:last-child {
+  border-bottom: 0px;
+}
+/*********************************************** Main ***********************************************/
+
+#description, #evenements, #inscription{
+  margin: 0px;
+  border-bottom: 2px solid black;
+}
+
+/******************************************** Description ********************************************/
+
+.centrer, .droite {
+	width: 100%;
+	text-align: center;
+}
+#description {
+	background-color: #fffa58;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	text-align: center;
+}
+#description div{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
+#description p {
+	line-height: 30px;
+	padding: 30px;
+	padding-top: 0px;
+}
+#description a {
+	text-decoration: underline;
+	font-size: 20px;
+	color: blue;
+}
+#description h2 {
+  width: 100%;
+	text-align: left;
+}
+#description h3 {
+  font-size: 30px;
+	margin-bottom: 10px;
+}
+.taille {
+	width: 84%;
+	text-indent: 40px;
+}
+#description div img {
+	width: 200px;
+	height: 133px;
+}
+
+/******************************************** Événement ********************************************/
+#evenements {
+	width: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
+#evenements div {
+	width: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+}
+#evenements h2 {
+	width: 100%;
+	text-align: left;
+}
+.texte {
+	width: 100%;
+}
+.cadre {
+	border: 2px solid black;
+	margin-right: 10px;
+	margin-top: auto;
+	margin-bottom: 20px;
+	width: 250px;
+}
+iframe {
+  width: 250px;
+  height: 250px;
+}
+#evenements h4 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 40px;
+}
+#evenements p {
+	font-size: 30px;
+	margin: 20px;
+}
+#evenements div {
+	display: none;
+}
+mark {
+	background-color: #f9f132;
+	font-weight: bold;
+	font-size: 35px;
+}
+#evenements:target div, #evenements div:nth-child(-n+3) {
+  text-align: center;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+	margin: 20px;
+}
+#evenements:target .bouton2 {
+	display: block;
+}
+#evenements:target .bouton1 {
+	display: none;
+}
+.bouton1, .bouton2 {
+	text-align: center;
+	display: block;
+	width: 211px;
+	height: 20px;
+  background-color: #f9f132;
+  border: 1.5px solid black;
+  border-bottom: 0px;
+  cursor: pointer;
+	padding: 10px 20px;
+	font-family: "police 1";
+  font-weight: bold;
+	font-size: 20px;
+}
+.bouton2 {
+	display: none;
+	width: 224px;
+}
+.bouton1:hover, .bouton2:hover {
+	color: #f9f132;
+	background-color: black;
+}
+#evenements div:target{
+	display: none;
+}
+/******************************************** Inscription ********************************************/
+
+#inscription {
+	padding-bottom: 20px;
+	text-align: left;
+}
+#inscription p {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+#inscription input[type=text], #inscription input[type=date], input[type=email], input[type=tel], select {
+	width: 260px;
+	height: 26px;
+	vertical-align: middle;
+	font-size: 20px;
+}
+select {
+	height: 30px;
+}
+input[type=radio] {
+	vertical-align: top;
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-right: 10px;
+	height: 25px;
+	width: 25px;
+}
+fieldset {
+  display: block;
+  margin: 20px;
+  border: 2px solid black;
+	position: relative;
+}
+.legend2 {
+  position: absolute;
+  bottom: -30px;
+  right: 80px;
+	padding: 15px 40px;
+	color: black;
+	background-color: #f9f132;
+	border: 2px solid black;
+	border-radius: 25px;
+	font-family: "police 1";
+  font-weight: bold;
+	font-size: 20px;
+}
+.legend2:hover {
+	color: #f9f132;
+	background-color: black;
+}
+
+/*********************************************** Footer ***********************************************/
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #a7a7a7;
+	padding-bottom: 6px;
+}
+p {
+	font-size: 20px;
+  margin: 2px;
+	margin-top: 10px;
+}
+
+/********************************************** Desktop **********************************************/
+
+@media screen and (min-width: 768px) {
+	/********************* Header *********************/
+	header {
+	  background-position: bottom center;
+	  border-bottom: 2px solid black;
+		height: 100px;
+	}
+	header h1 {
+	  font-size: 70px;
+	}
+	/*********************  Menu *********************/
+	nav {
+	  background-color: transparent;
+		background-image: none;
+		border: none;
+	}
+	nav a {
+		margin-right: 10px;
+		margin-top: 40px;
+	  text-decoration: none;
+	  color: black;
+	  font-size: 25px;
+	}
+	nav img {
+		display: none;
+	}
+	a:hover {
+		color: #ff0000;
+	}
+	ul {
+		margin-top: 30px;
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: flex-end;
+		background-color: transparent;
+		width: 100%;
+	}
+	li {
+	  text-align: center;
+	  padding: 14px;
+		border: none;
+		margin-right: 20px;
+	}
+	/****************** Description ******************/
+	#description {
+		align-items: center;
+	}
+	.droite {
+		margin-top: 0px;
+		margin-left: -30px;
+		width: calc(100% - 20px);
+		text-indent: 40px;
+		text-align: left;
+	}
+	#description div {
+		width: calc(60% + 300px);
+		display: block;
+		margin: auto;
+	}
+	#description img {
+		float: left;
+		padding-right: 20px;
+	}
+	/******************* Événement *******************/
+	.partie div {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: center;
+	}
+	.cadre {
+		margin-bottom: auto;
+	}
+	.texte {
+		width: calc(100% - 274px);
+	}
+	#evenements:target div {
+		margin: 20px 10%;
+	}
+	/****************** Inscription ******************/
+	.formulaire {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-around;
+	}
+	#inscription p {
+		font-size: 30px;
+		text-align: center;
+	}
+
+	#inscription input[type=text], #inscription input[type=date], input[type=mail], input[type=tel], select {
+		width: 220px;
+		height: 20px;
+		vertical-align: middle;
+		font-size: 18px;
+	}
+	select {
+		height: 30px;
+	}
+	input[type=radio] {
+		vertical-align: top;
+		margin-top: 4px;
+		height: 25px;
+		width: 25px;
+		margin-right: 0px;
+	}
+	.type1 { width: calc(33% - 4px); }
+	.type2 { width: calc(50% - 4px); }
+	.type3 { width: calc(100% - 4px); }
+}
