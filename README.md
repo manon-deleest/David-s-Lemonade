@@ -4,7 +4,7 @@
 
 Lors du module M2105, intitulé IHM ou interface homme-machine, nous avons commencé par voir comment créer un site internet qui s’adapterait au besoin du client et aux utilisateurs. Ainsi nous avons appris à rendre un site ergonomique, à respecter l’identité graphique du client mais aussi à utiliser des maquettes afin de pourvoir les proposer au client avant de les réaliser. 
 
-***
+**
 ## Contexte 
 
 Après avoir suivi les cours de ce module, nous avons dû réaliser ce projet en binôme ou en trinôme. Nous avions à notre disposition trois séances de TP et tout le temps nécessaire chez nous en plus.  
