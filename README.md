@@ -22,7 +22,7 @@ Plusieurs choix concernant le projet nous ont été imposés :
 -	Les images devaient être optimisées,
 -	La page devait être consultable et utilisable en version mobile et desktop.
 
-**
+***
 ## Travail réalisé : 
 
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Combava/Screenshot_2020-12-23%20Combava.jpg">
