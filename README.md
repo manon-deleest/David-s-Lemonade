@@ -25,7 +25,7 @@ Plusieurs choix concernant le projet nous ont été imposés :
 ***
 ## Travail réalisé : 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Combava/Screenshot_2020-12-23%20Combava.jpg">
+<img align="center" src="https://www.flickr.com/photos/191590210@N04/shares/9oR614">
 
 ***
 ## Personas : 
