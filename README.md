@@ -25,7 +25,7 @@ Plusieurs choix concernant le projet nous ont été imposés :
 ***
 ## Travail réalisé : 
 
-<img align="center" src="https://www.flickr.com/photos/191590210@N04/shares/31V5io">
+<img align="center" src="https://www.flickr.com/photos/191590210@N04/shares/035dzi">
 
 ***
 ## Personas : 
