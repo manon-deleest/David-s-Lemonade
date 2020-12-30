@@ -30,7 +30,7 @@ Plusieurs choix concernant le projet nous ont été imposés :
 ***
 ## Personas : 
 
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Combava/personas1.PNG">
+<img align="center" src="https://zupimages.net/viewer.php?id=20/53/2mtg.png">
  
 <img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Combava/personas2.PNG">
  
