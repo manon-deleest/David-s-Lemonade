@@ -30,14 +30,21 @@ Plusieurs choix concernant le projet nous ont été imposés :
 ***
 ## Personas : 
 
-<img align="center" src="https://zupimages.net/viewer.php?id=20/53/2mtg.png">
+<img align="center" src="https://zupimages.net/up/20/53/2mtg.png">
  
-<img align="center" src="https://github.com/manon-deleest/Vrac/blob/master/Combava/personas2.PNG">
+<img align="center" src="https://zupimages.net/up/20/53/cnb1.png">
  
  ***
  ## Explications : 
  
-Nous avons décidé d’utiliser deux types de fontes pour faciliter la lisibilité. En effet, nous ne trouvions pas de fonte qui corresponde aussi bien aux titres qu’à la description. Pour le titre, nous avons utilisé une typographie avec une mise en gras qui ressemble aux titres de la charte graphique. Nous avons préféré une typographie plus fine pour le reste du site afin de faciliter la lisibilité. 
+Nous avons décidé d’utiliser deux types de fontes pour faciliter la lisibilité. En effet, nous ne trouvions pas de fonte qui corresponde aussi bien aux titres qu’à la description. Pour le titre, nous avons utilisé une typographie avec une mise en gras qui ressemble aux titres de la charte graphique.
+
+<img align="center" src="https://zupimages.net/up/20/53/55kd.png">
+
+Nous avons préféré une typographie plus fine pour le reste du site afin de faciliter la lisibilité. 
+
+<img align="center" src="https://zupimages.net/up/20/53/hu38.png">
+
 Nous avons utilisé des couleurs dans le ton du jaune qui correspondent à la charte graphique mais également pour ces impacts psychologiques c’est-à-dire : la joie, la chaleur, le mouvement, la créativité et la communication. Pour effectuer un léger contraste avec ces couleurs nous avons aussi utilisé des photos et des illustrations dans les tons de l’image imposée. 
 Nous avons choisi des images dans le thème des citrons et des boissons citronnées, des images claires qui rappellent le printemps, l’été et la chaleur. 
 Pour la description de l’association nous avons employé un vocabulaire plutôt familier. Cette démarche avait pour but de garder un lien proche avec les visiteurs du site tout en restant respectueux envers eux.
