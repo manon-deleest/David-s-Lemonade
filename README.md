@@ -25,7 +25,7 @@ Plusieurs choix concernant le projet nous ont été imposés :
 ***
 ## Travail réalisé : 
 
-<img align="center" src="https://zupimages.net/viewer.php?id=20/53/98k2.jpg">
+<img align="center" src="https://zupimages.net/up/20/53/98k2.jpg">
 
 ***
 ## Personas : 
