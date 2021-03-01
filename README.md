@@ -7,7 +7,7 @@ Lors du module M2105, intitulé IHM ou interface homme-machine, nous avons comme
 ***
 ## Contexte 
 
-Après avoir suivi les cours de ce module, nous avons dû réaliser ce projet en binôme ou en trinôme. Nous avions à notre disposition trois séances de TP et tout le temps nécessaire chez nous en plus.  
+Après avoir suivi les cours de ce module, nous avons réalisé ce projet en binôme avec [Thomas MARTY](https://thomas-marty.fr/) . Nous avions à notre disposition trois séances de TP et tout le temps nécessaire chez nous en plus.  
 Ce TP consistait à réaliser un site web pour une association fictive. Cette association regroupait des producteurs indépendants d'agrumes du sud de la France. Afin de se faire connaitre, ils souhaitaient organiser des dégustations de citronnade autour du pays.  De plus Combava avait l'autorisation d'utiliser le nom et l'identité graphique de "David's Lemonade". Ainsi elle souhaitait réaliser un site web pour promouvoir ces évènements et permettre aux personnes intéressées de s’inscrire à ceux-ci. 
 Les consignes complètes sont présentes [ici](https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI1CxIEVXNlchixlrchDAsSBkNvdXJzZRiAgICAsNiCCgwLEghBY3Rpdml0eRiAgICAsJaKCgyiARA1NzI4ODg1ODgyNzQ4OTI4) : 
 
